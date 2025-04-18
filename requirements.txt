@@ -1,0 +1,6 @@
+langchain
+langchain_community
+wikipedia
+pydantic>=1.10,<2.0
+python-dotenv
+requests 
