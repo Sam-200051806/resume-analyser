@@ -4,3 +4,11 @@ wikipedia
 pydantic>=1.10,<2.0
 python-dotenv
 requests 
+fastapi
+uvicorn
+pydantic
+python-multipart
+PyPDF2
+pytesseract
+Pillow
+groq
