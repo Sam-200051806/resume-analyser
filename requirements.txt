@@ -11,4 +11,4 @@ groq
 langchain
 # Change this version to avoid text-generation dependency
 langchain-huggingface
-sentence-transformers
+# sentence-transformers
