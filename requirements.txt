@@ -1,14 +1,14 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-pydantic==1.10.9
-python-dotenv==1.0.0
-PyPDF2==3.0.1
-pytesseract==0.3.10
-pillow==8.4.0
-pinecone-client==2.2.1
-groq==0.23.1
+fastapi
+uvicorn
+pydantic
+python-dotenv
+PyPDF2
+pytesseract
+pillow
+pinecone-client
+groq
 # Remove specific version constraints for these
-langchain==0.0.167
+langchain
 # Change this version to avoid text-generation dependency
-langchain-huggingface==0.0.1
-sentence-transformers==2.6.0
+langchain-huggingface
+sentence-transformers
