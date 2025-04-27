@@ -10,4 +10,4 @@ groq==0.23.1
 # Add these required packages
 langchain==0.0.167
 langchain-huggingface==0.0.2
-sentence-transformers==2.2.2
+sentence-transformers==2.6.0
