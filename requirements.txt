@@ -5,8 +5,8 @@ python-dotenv==1.0.0
 PyPDF2==3.0.1
 pytesseract==0.3.10
 pillow>=9.4.0
-# Update to newer langchain that supports newer langsmith
-langchain>=0.1.0
-langchain-huggingface>=0.1.2
-pinecone-client>=2.2.1
+# Use older LangChain compatible with Pydantic 1.x
+langchain==0.0.235
+langchain-huggingface==0.0.5
+pinecone-client==2.2.1
 groq>=0.1.1
