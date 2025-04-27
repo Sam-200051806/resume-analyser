@@ -6,5 +6,7 @@ PyPDF2==3.0.1
 pytesseract==0.3.10
 pillow==8.4.0
 pinecone-client==2.2.1
-groq>=0.1.1
-sentence-transformers>=2.2.2
+groq==0.1.1
+sentence-transformers==2.2.2
+langchain==0.0.208
+langchain-huggingface==0.0.2
