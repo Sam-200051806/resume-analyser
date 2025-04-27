@@ -7,5 +7,5 @@ pytesseract==0.3.10
 Pillow==10.0.0
 langchain==0.0.232
 langchain-huggingface==0.0.5
-pinecone==2.2.1
+pinecone-client==2.2.1
 groq==0.1.0
