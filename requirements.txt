@@ -7,6 +7,7 @@ pytesseract==0.3.10
 pillow>=9.4.0
 # Use older LangChain compatible with Pydantic 1.x
 langchain==0.0.235
-langchain-huggingface==0.0.5
+# Use available version of langchain-huggingface
+langchain-huggingface==0.0.3
 pinecone-client==2.2.1
 groq>=0.1.1
