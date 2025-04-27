@@ -4,7 +4,7 @@ pydantic==1.10.9
 python-dotenv==1.0.0
 PyPDF2==3.0.1
 pytesseract==0.3.10
-Pillow==10.0.0
+Pillow==9.5.0
 langchain==0.0.232
 langchain-huggingface==0.0.5
 pinecone-client==2.2.1
